@@ -1,3 +1,4 @@
+package basic.Array;
 // public class arrayreverse {
 //     public static void main(String[] args) {
 //         int arr[] = { 12, 23, 45, 56, 77, 21, 87, 56, 90 };
@@ -19,6 +20,8 @@
 // }
 
 //aray reverse with out using second arry using funcrtion 
+
+
 
 public class arrayreverse {
     public static void reverse(int arr[]) {
