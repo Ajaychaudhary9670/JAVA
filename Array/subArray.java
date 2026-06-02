@@ -35,3 +35,7 @@ public class subArray {
     }
 
 }
+
+
+
+///// (n(n+1))/2   number of subArray
