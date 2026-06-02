@@ -23,6 +23,7 @@ public class charSearInStr {
         System.out.println("enter the string");
         String name = sc.nextLine();
         System.out.println("enter character to be searched");
+      
         char cha = sc.next().charAt(0);
         rev(name, cha);
         sc.close();
