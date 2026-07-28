@@ -22,10 +22,10 @@ public class elementsearching {
             }
 
         }
-        if (flage==false)
-        System.out.println("nhi mila");
-        else 
+        if (flage!=false)
         System.out.println("mil gya");
+        else 
+        System.out.println("nhi mila");
 
         sc.close();
     }

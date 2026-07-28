@@ -10,6 +10,7 @@ public class missing {
             sum+=arr[i];
 
         }
+        System.out.println(arr.length);
        System.out.println(total-sum);
     }
     

@@ -31,6 +31,8 @@ public class subArray {
     public static void main(String[] args) {
         int arr[] = { 1, 2, 3, 4, 5, 6, 7 };
         sub(arr);
+        System.out.println("enter your naba,e unxyn hhey zusnxh ");
+        System.out.println("element is found at atrh index four");
 
     }
 
