@@ -8,3 +8,8 @@ public class clearLastIthBit {
         
     }
 }
+
+
+
+/// 1111 ,i=2 diya hai to 1100 aisa answer aana chahiye 
+/// logic -1=~0=111111111

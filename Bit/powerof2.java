@@ -1,11 +1,14 @@
 public class powerof2 {
     public static boolean powerOfTwoISOrNot(int n) {
+        if(n<=0){
+            return false;
+        }
         return (n & (n - 1)) == 0;
 
     }
 
     public static void main(String[] args) {
-       System.out.println(powerOfTwoISOrNot(6));
+       System.out.println(powerOfTwoISOrNot(-19));
 
     }
 }

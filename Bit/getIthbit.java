@@ -12,8 +12,11 @@ public class getIthbit {
 
     public static void main(String[] args) {
 
-        getIthBit(18, 3);
-        getIthBit(18, 4);
+        getIthBit(9, 2);
+        getIthBit(5, 0);
+        
+
+        getIthBit(8, 3);     ///counting of bit from 0
         
 
     }

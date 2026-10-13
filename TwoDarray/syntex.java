@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class syntex {
+    
 
     public static void main(String[] args) {
         int matrix[][] = new int[3][3];
